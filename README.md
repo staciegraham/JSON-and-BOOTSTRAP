@@ -1,2 +1,1 @@
-# JSON-and-BOOTSTRAP
-Week 2 JSON and BOOTSTRAP 
+I am learning advanced web design using BOOTSTRAP.
